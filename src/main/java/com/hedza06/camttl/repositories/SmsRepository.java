@@ -1,0 +1,1 @@
+package com.hedza06.camttl.repositories;import com.hedza06.camttl.domain.Sms;import org.springframework.data.jpa.repository.JpaRepository;public interface SmsRepository extends JpaRepository<Sms, Integer> { }
