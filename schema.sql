@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS cam_ttl CHARSET utf8 COLLATE utf8_slovenian_ci;USE cam_ttl;CREATE TABLE IF NOT EXISTS `sms` (    id INT(11) NOT NULL AUTO_INCREMENT,    message_text VARCHAR(159) NOT NULL,    message_identifier VARCHAR(64) NOT NULL,    PRIMARY KEY (id));
