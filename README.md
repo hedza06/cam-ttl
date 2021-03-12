@@ -49,7 +49,7 @@ Other config parameters you can find on the following link:
 https://docs.camunda.org/manual/7.10/reference/deployment-descriptors/tags/process-engine/#history-cleanup-configuration-parameters
 
 ### Author
-Heril Muratovi?  
+Heril Muratović  
 Software Engineer  
 
 Mobile: +38269657962  
